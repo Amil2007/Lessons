@@ -1,0 +1,23 @@
+.container {
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.block {
+    width: 45%;
+    height: 50px;
+    margin: 10px;
+    background-color: #b0c4de;
+    text-align: center;
+    line-height: 50px;
+    float: left;
+}
+.block.right {
+    float: right;
+}
+.center {
+    width: 30%;
+    margin: 10px auto;
+    background-color: #add8e6;
+    text-align: center;
+}
